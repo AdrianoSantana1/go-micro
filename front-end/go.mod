@@ -1,3 +1,3 @@
-module github.com/AdrianoSantana/micro-frontend
+module github.com/AdrianoSantana1/micro-frontend
 
 go 1.18
